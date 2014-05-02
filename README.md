@@ -8,7 +8,7 @@ A central server has passwordless access to the cassandra nodes
 ## Usage
 List nodes in cassandra_nodes_\<env\>.lst <br />
 Define a directory for output <br />
-Change cassandra data path as required.
+Change python, java, cassandra data path etc as required.
 
 ## Call:
 cassandra_node_grabs.sh \<env\> <br />
